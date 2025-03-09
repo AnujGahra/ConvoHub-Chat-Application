@@ -20,6 +20,10 @@ Welcome to the **Full Stack Realtime Chat App**! This app is built using modern 
 
 ---
 
+## 📸 Preview
+
+![convoHub Chat WebApp](OverView.png)
+
 ## 🛠️ How to Set Up the Project
 
 Follow these steps to get the app up and running:
